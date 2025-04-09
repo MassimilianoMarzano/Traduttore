@@ -5,6 +5,7 @@ const translationText = document.querySelector('.translation-text');
 const translationFlag = document.querySelector('.translation-flag');
 const resetButton = document.querySelector('.reset-button');
 // commento a caso
+//modifica background color
 // funzione di reset
 function reset() {
     textInput.value = '';

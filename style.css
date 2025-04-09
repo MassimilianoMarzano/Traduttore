@@ -5,8 +5,8 @@
 }
 
 body {
-    padding: 16px;
-    background-color: rgb(234, 237, 240);
+    padding: 8px;
+    background-color: rgb(108, 18, 18);
 }
 
 h1 {
@@ -24,7 +24,7 @@ input {
 
 button {
     padding: 8px 16px;
-    background-color: rgb(128, 176, 255);
+    background-color: rgb(218, 189, 22);
     font-size: 32px;
     border-radius: 8px;
     border: none;
@@ -79,4 +79,9 @@ header {
 
 .text-input {
     width: 100%;
+}
+
+.fr {
+    background-color: blue;
+    color: red;
 }
